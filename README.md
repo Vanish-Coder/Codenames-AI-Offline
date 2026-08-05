@@ -8,7 +8,7 @@ ________________________________________________________________________________
 - Go to the directory containing the files, for example if the files are stored in a folder called codeNames which is stored in a folder called Desktop, type in "cd Desktop/codeNames" into your terminal.
 - Once you are in the directory, type in
 ```bash
-javac codenamesRunner
+javac codenamesRunner.java
 ```
 - Once you did this, type in
 ```bash
